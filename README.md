@@ -16,4 +16,4 @@ The full name of your DNS record (e.g.: test.example.com)
 ## Notes
 - Only A-type records are supported at this time.
 - The IP address is determined via polling, this is not always ideal for high-availability services
-- Relies on [ipify.org](ipify.org)
+- Relies on [ipify.org](https://ipify.org)
